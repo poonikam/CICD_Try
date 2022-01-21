@@ -20,6 +20,6 @@ Feature:Test Calender functionality for MBRD
     Then I get responce
 
   Scenario: SRA131_Calender_Check_Calender meeting is added new
-    Given I launch the Calender
+    Given I launch the Calender new CI
     When I perform GET call with given endpoint
     Then I get responce
