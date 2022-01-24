@@ -4,5 +4,6 @@ com\mbr\qa\steps\MyStepdefs.class
 com\mbr\qa\utils\JavaUtils.class
 com\mbr\qa\utils\DriverUtil.class
 com\mbr\qa\utils\constants\Contstants.class
+com\mbr\qa\steps\MyStepdefsForCI.class
 com\mbr\qa\utils\APIUtils.class
 PropertiesFileRead.class
